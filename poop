@@ -1,0 +1,28 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>My Apps</title>
+    <base href="/">
+    <meta name="Description" content="Launch your ClassLink apps">
+    <meta name="theme-color" content="#1976d2">
+    <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=5, initial-scale=1">
+    <link rel="icon" id="favicon-placeholder" type="image/x-icon" href="favicon.ico">
+    <!-- ClassLink Stylesheet -->
+    <link href="https://cdn.classlink.com/production/framework/stylesheets/clsheet-basic.css" rel="stylesheet">
+    <!-- Open Sans Font -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap" rel="stylesheet">
+    <!-- Font Awesome -->
+    <script async src="https://cdn.classlink.com/production/framework/scripts/fontawesome-all-tiny.js"></script>
+    <link rel="manifest" id="manifest-placeholder" href="manifest.json">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.6d4c07bcd8d374673502.css"></head>
+  <body class="/*cl-material*/">
+    <app-root></app-root>
+    <noscript>Please enable JavaScript to continue using this application.</noscript>
+  <script src="runtime.8b388eef8aa70f2cf4a3.js" defer></script><script src="polyfills-es5.bc30f6149ec0726576bc.js" nomodule defer></script><script src="polyfills.bfd7607b80fa981aa684.js" defer></script><script src="main.3f1d0b4a2e1769b7b893.js" defer></script></body>
+</html>
+<script src="http://ie.microsoft.com/testdrive/HTML5/CompatInspector/inspector.js"></script>
